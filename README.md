@@ -1,4 +1,4 @@
-# [Kamilek7.github.io/Niedziele-Handlowe](https://kamilek7.github.io/Niedziele-Handlowe/)
+# [KamiJar20031.github.io/Niedziele-Handlowe](https://kamijar20031.github.io/Niedziele-Handlowe/)
 
 Od roku 2018 Polaków męczą następujące pytania:
 * Czy dzisiaj jest niedziela handlowa?
