@@ -11,5 +11,4 @@ I właśnie po to powstał ten projekt, od poznania odpowiedzi na te nurtujące 
 
 *dane pobierane są ze strony [kalendarzswiat.pl](https://www.kalendarzswiat.pl/)*
 
-Podgląd:
 <img width="1867" height="992" alt="obraz" src="https://github.com/user-attachments/assets/200c1e2f-a531-47f4-8d89-6c1a51a26601" />
